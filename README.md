@@ -1,2 +1,2 @@
 # Subway-Usage-During-Covid-19
-How the COVID-19 Pandemic has effected subway usage in NYC and predictions on when we will be back to normal. 
+Many aspects of human lives were fundamentally impacted by the lasting effects of the COVID-19 pandemic. One specific aspect that I am investigating is the impact of mass transit in NYC, specifically the Subway. For the first time in its history, the MTA New York City Transit did not run 24/7 because of the pandemic. Along with the myriad of service changes to cope with the diminishing traveling public, the agency also suffered from a lack of train crews to keep even its revised train schedules running on time. We hope to uncover how transit for the city has changed, with a specific focus on the subway.
